@@ -23,7 +23,6 @@ To set up ktlint correctly with Android Studio, follow one of the [listed setup 
 Before committing your code, run `./gradlew app:spotlessApply` to automatically format your code.
 
 ## Design mocks
-![dev_challenge_speed](https://user-images.githubusercontent.com/2998890/117301782-e536a300-ae72-11eb-8f42-a7a12151ee5e.png)
 Design mocks for the speed round can be found here:
 * [Login UI](https://drive.google.com/file/d/1705K3Bdw3D6IxeaYupaQYfT40PuE2eh7/view?usp=sharing)
 
