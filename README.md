@@ -17,7 +17,8 @@ Clone your repository and open it in the latest [Android Studio](https://develop
 
 
 ## Design mocks
-Design mocks for the speed round can be found here:
+![](https://i.ibb.co/b5bbXjf/LOGIN-UI-13-A.png)
+
 * [Login UI](https://drive.google.com/file/d/1705K3Bdw3D6IxeaYupaQYfT40PuE2eh7/view?usp=sharing)
 
 ## License
