@@ -15,12 +15,6 @@ Clone your repository and open it in the latest [Android Studio](https://develop
   video.mp4
 - Replace the contents of [README.md](README.md) with the contents of [README-template.md](README-template.md) and fill out the template.
 
-## Code formatting
-The CI uses [Spotless](https://github.com/diffplug/spotless) to check if your code is formatted correctly and contains the right licenses.
-Internally, Spotless uses [ktlint](https://github.com/pinterest/ktlint) to check the formatting of your code.
-To set up ktlint correctly with Android Studio, follow one of the [listed setup options](https://github.com/pinterest/ktlint#-with-intellij-idea).
-
-Before committing your code, run `./gradlew app:spotlessApply` to automatically format your code.
 
 ## Design mocks
 Design mocks for the speed round can be found here:
