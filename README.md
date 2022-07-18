@@ -1,6 +1,11 @@
 
 This repository for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge). July 2022.
 
+I Started this challenge on my tech community group in Gaza strip- Palestine to encourage me and other devs to start moving
+to Compose as it's the new future in Android. 
+
+I used the #AndroidDevChallenge template so that I could reactivate it and reach out to the maximum Devs in the world.
+
 ## Getting started
 Fork this repository by pressing the "Fork" button in Github.
 
